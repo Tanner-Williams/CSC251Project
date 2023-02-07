@@ -7,10 +7,3 @@ class A
       B.main(str); 
    } 
 } 
-class B 
-{ 
-   public static void main(String args[]) 
-   { 
-     System.out.println("hello");
-   }
-} 
