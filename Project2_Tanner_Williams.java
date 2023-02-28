@@ -1,5 +1,9 @@
 import java.util.Scanner;     //Scanner import for user input
 
+class Demo{
+
+}
+
 class Policy {
       /**
       The bmiCalculatorMethod displays the sum of the formula used with the given data below.
