@@ -1,7 +1,11 @@
+import java.io.File;    // Allows access to files
 import java.util.Scanner;     //Scanner import for user input
 
 class Demo{
-
+   public static void main(String[] args) throws Exception{
+    Scanner sc = new Scanner(file);
+    
+  }
 }
 
 class Policy {
